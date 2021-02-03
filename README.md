@@ -1,2 +1,2 @@
 # MachineLearning-ArtificialIntelligence
-A repository to house machine learning and artificial intelligence projects.
+A repository to display machine learning and artificial intelligence projects.
